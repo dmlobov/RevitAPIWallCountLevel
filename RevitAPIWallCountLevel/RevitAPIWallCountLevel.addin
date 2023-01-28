@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPIWallCountLevel.dll"</Assembly>
+		<AddInId>4A89B5FF-96F1-41BC-B86C-8B8E135BA972</AddInId>
+		<FullClassName>RevitAPIWallCountLevel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>WallCountLevel</Text>
+	</AddIn>
+</RevitAddIns>
